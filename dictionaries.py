@@ -33,7 +33,8 @@ for value in dict_inp.keys():
 
 print()
 
-wardrobe = {"shirt": ["red", "blue", "white"], "jeans": ["blue", "black"]}
+wardrobe = {"shirt": ["red", "blue", "white"],
+            "jeans": ["blue", "black"]}
 
 for garment in wardrobe.keys():
     colors = wardrobe[garment]
@@ -60,10 +61,16 @@ def groups_per_user(group_dictionary):
 
     return(user_groups)
 
-
 print(groups_per_user({"local": ["admin", "userA"],
                        "public":  ["admin", "userB"],
                        "administrator": ["admin"]}))
+
+# Simple dictionary 
+host_addresses = {"router": "192.168.1.1",
+                  "localhost": "127.0.0.1", 
+                  "google": "8.8.8.8"}
+print(host_addresses.keys())
+print(host_addresses)
 
 
 def email_list(domains):
@@ -76,7 +83,6 @@ def email_list(domains):
             emails.append(user + "@" + domain)
 
     return(emails)
-
 
 print(email_list({"gmail.com": ["clark.kent", "diana.prince", "peter.parker"], "yahoo.com": [
       "barbara.gordon", "jean.grey"], "hotmail.com": ["bruce.wayne"]}))
@@ -109,11 +115,6 @@ print(animal[10:])
 colors = ["red", "white", "blue"]
 colors.insert(2, "yellow")
 print(colors)
-
-host_addresses = {"router": "192.168.1.1",
-                  "localhost": "127.0.0.1", "google": "8.8.8.8"}
-print(host_addresses.keys())
-print(host_addresses)
 
 # Basic Dictionary
 toc = {"Introduction":1000, "Chapter 1":4, "Chapter 2":11, "Chapter 3":25, "Chapter 4":30}
