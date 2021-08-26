@@ -28,5 +28,5 @@ def sum_positive_numbers(n):
     # the sum of the numbers smaller than this one.
     return(n + sum_positive_numbers(n-1))
 
-print(sum_positive_numbers(8)) # Should be 6
+print(sum_positive_numbers(8)) # Should be 36
 print(sum_positive_numbers(5)) # Should be 15
