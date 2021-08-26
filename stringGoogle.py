@@ -40,12 +40,16 @@ def replace_ending(sentence, old, new):
 		# Using i as the slicing index, combine the part
 		# of the sentence up to the matched string at the 
 		# end with the new string
-		i = len(sentence[:-len(old)]) 
-		new_sentence = sentence[:-i] + new
-		return new_sentence
 		
-	# Return the original sentence if there is no match 
-	return sentence
+		i = len(sentence[:-len(old)]) 
+		if old == sentence[i+1:i+len(old)]:
+			new_sentence = sentence[:i] + new
+			return new_sentence
+		else:
+			return sentence
+	else:
+		# Return the original sentence if there is no match 
+		return sentence
 	
 print(replace_ending("It's raining cats and cats", "cats", "dogs")) 
 # Should display "It's raining cats and dogs"

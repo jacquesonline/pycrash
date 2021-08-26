@@ -67,7 +67,6 @@ print(groups_per_user({"local": ["admin", "userA"],
                        "public":  ["admin", "userB"],
                        "administrator": ["admin"]}))
 
-<<<<<<< HEAD
 # Simple dictionary 
 host_addresses = {"router": "192.168.1.1",
                   "localhost": "127.0.0.1", 
@@ -75,10 +74,8 @@ host_addresses = {"router": "192.168.1.1",
 print(host_addresses.keys())
 print(host_addresses)
 
-=======
 # The email_list function receives a dictionary, which contains domain names as keys, and a list of users as values. 
 # Fill in the blanks to generate a list that contains complete email addresses (e.g. diana.prince@gmail.com).
->>>>>>> ca869bf6dcc52a0ff949b388ad9d8c116f2587ed
 
 def email_list(domains):
     emails = []

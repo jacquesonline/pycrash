@@ -3,8 +3,10 @@ def get_event_date(event):
 
 def current_users(events):
   events.sort(key=get_event_date)
+  
   machines = {}
   for event in events:
+    print(event.date + " " + event.type + " " + event.machine + " " + event.user)
     if event.machine not in machines:
       machines[event.machine] = set()
     if event.type == "login":
@@ -37,6 +39,5 @@ events = [
 ]
 
 users = current_users(events)
-print(users)
 
 generate_report(users)
