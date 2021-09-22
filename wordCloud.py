@@ -61,7 +61,7 @@ file = open("C:\\Users\\steenkaj\\CRM Roadmap.txt")
 file_contents = file.read()
 file.close()
 
-print(file_contents)
+# print(file_contents)
 # Display your wordcloud image
 myimage = calculate_frequencies(file_contents)
 plt.imshow(myimage, interpolation = 'nearest')
