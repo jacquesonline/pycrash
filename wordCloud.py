@@ -57,7 +57,7 @@ def calculate_frequencies(file_contents):
     cloud.generate_from_frequencies(iteration_dict)
     return cloud.to_array()
 
-file = open("C:\\Users\\steenkaj\\CRM Roadmap.txt")
+file = open("C:\\Users\\steenkaj\\googleAutomation\\pycrash\\CRM Roadmap.txt")
 file_contents = file.read()
 file.close()
 

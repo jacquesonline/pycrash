@@ -1,0 +1,500 @@
+Functional Requirements (100)
+Accounts and Contacts Management (13) 
+Account Hierarchy
+The solution offers hierarchy in account management by linking related accounts with their parent account. It enables viewing child account information directly from the parent account page, thus helping to identify cross-selling and upselling opportunities.
+High
+Account Management
+The solution allows creating accounts to store profile information of companies or business units. It offers a unified view of account details and associated contacts, opportunities, tickets, notes, billing information, communication history, and more.
+High
+AI-Based Sales Recommendation
+The solution uses Artificial Intelligence to present cross-sell, up-sell, retention, and renewal offer to the right clients and prospects at the right time.
+Medium
+Appointment Scheduling
+The solution allows creating a custom scheduling page, and include calendar links in individual emails to send them to customers and request them to pick a date and time.
+High
+Contact Management
+The solution allows creating contacts to store profile information of individuals and offers a unified view of contact details and its associated accounts, opportunities, tickets, surveys, notes, activity history, communication history, engagement history, social data, and more.
+High
+Contacts Map
+The solution integrates map services such as Google Maps, Badger Maps, etc. to help locate contacts and filter them by city, state, and country.
+High
+Contacts Recommendation
+The solution recommends contacts to connect based on preferences such as job title, company, or areas of interest.
+Medium
+Email Verification and Suggestion
+The solution allows verifying existing email addresses and suggests unobtainable email addresses by using contact's first name, last name, and company website address, and automatically searching known email servers, MX records, and possible email patterns to give probable email addresses for that contact.
+Medium
+Group Appointment Scheduling
+The solution allows publishing a single scheduling URL that can be used to share calendars of several users. Once the group URL is sent to a contact, they can set up a meeting with any of the users.
+High
+Organization Charts
+The solution provides interactive org charts to keep track of contacts and visualize relationships among contacts.
+High
+Territory Hierarchy
+The solution allows setting up a territory hierarchy with unlimited nested levels and shows a visual representation of the parent-child relationships between the territories.
+High
+Territory Management
+The solution allows setting up rules based on the country, state, or product lines to create territories and assign accounts to territories, both automatically and manually.
+High
+Territory User Management
+The solution allows assigning an unlimited number of sales people to a territory, and a salesperson can be assigned to an unlimited number of territories.
+High
+Customer Communication Management (21) 
+Artificial Intelligence in Email Management
+The solution uses Artificial Intelligence to analyze email text in real-time and suggests tasks and email responses. It helps to deliver emails to the prospects when they are likely to engage.
+Medium
+Automatic Voicemails
+The solution helps sales representatives to record and set up automated voicemails. It allows uploading and saving pre-recorded message files.
+High
+Built-in Caller
+The solution provides a built-in telephonic caller to click directly and make calls to the contacts without leaving the application.
+High
+Call Logs
+The solution automatically logs all incoming and outgoing calls. It also has provisions to manually log a call and map it to an existing lead or create a new lead.
+High
+Call Popup
+The solution provides a call pop-up window to add notes, create follow-up tasks, or assign the contact to another sales representative.
+High
+Call Recording
+The solution allows recording important calls as the call progresses to use them whenever it needs a reference.
+High
+Call Reminders
+The solution allows setting reminders for upcoming calls and sends alerts for missed ones.
+High
+Call Scheduling
+The solution allows scheduling phone calls at a later date, including offering an at-a-glance view of oneself and teammates' call schedules.
+High
+Call Tagging
+The solution allows assigning each call a custom tag to sort calls into categories or identify call types.
+High
+Canned Responses
+The solution provides pre-determined email responses to commonly asked questions for support agents to reply to prospects quickly.
+High
+Direct Email Communication
+The solution provides a standard email configuration to send and receive emails directly from the solution itself.
+High
+Email Association with CRM Records
+The solution automatically associates all incoming and outgoing emails with the respective contact record and allows instantly replying to emails, sharing quotes, adding follow-ups, and making notes.
+High
+Email Client Integration
+The solution enables integrating popular email clients such as Gmail and Outlook to send and receive emails directly from the email client itself.
+High
+Email Scheduling
+The solution allows scheduling emails to go out at a specified date and time and facilitates choosing from several pre-selected times or even a custom time period. It enables editing the scheduled emails before delivery.
+High
+Email Status
+The solution provides real-time notifications for sent emails whenever a prospect opens an email or set follow-up reminders.
+High
+Email Templates
+The solution offers pre-built email templates or helps create a template from scratch to send mass emails to leads/contacts as a campaign or trigger a workflow rule.
+High
+Mass Email
+The solution allows sending individual and personalized emails to campaign members and recipients on contact and lead lists.
+High
+SMS Analytics
+The solution provides insights into the text messages' performance, including analyzing which templates received higher responses from the target customer base.
+High
+SMS Interaction
+The solution allows reaching prospects and customers through SMS and sending them personalized texts using the data stored in the CRM.
+High
+SMS Scheduling
+The solution allows scheduling the text messages as per the time zone of the customers and prospects.
+High
+SMS Templates
+The solution allows creating text message templates and save them for later use.
+High
+Dashboards and Reports (15) 
+Activity Reports
+The solution provides out-of-the-box customizable reports to view the Emails, Phone Calls, Tasks, and Appointments associated with team members.
+High
+API Usage Dashboard
+The solution offers dashboards to track the company's account API usage and get information about the API consumers, API usage pattern, average daily usage, usage access points, and the API methods being used.
+High
+Call Analytics
+The solution provides visualizations and reports to help visualize call data and measure the sales team's performance.
+High
+Charts and Visualizations
+The solution allows for generating interactive charts with drill-down capabilities, customized to visualize large quantities of data graphically. It offers multiple visualizations such as Bar, Line, Funnel, Table, Column, Donut, Pie chart, Area maps, Heat maps, etc.
+High
+Customizable Dashboard
+The solution provides a visual drag-and-drop editor to customize the dashboard with charts, reports, or engagement analytics.
+High
+Custom Reports
+The solution provides a drag-and-drop interface to create customizable reports with charts and tables to analyze the data and apply filters to drill-down into the data.
+High
+Dashboard Sharing
+The solution allows users to share their dashboards with others, export them as a PDF, or set schedules to send it to selected users via email.
+High
+Deal Reports
+The solution helps generate detailed reports such as deals closed in the current month, daily revenue, sales stages, etc.
+High
+Email Reports
+The solution provides reports to analyze the delivery rates (bounce rates, click rates) and engagement for sent emails. The reports are classified across each salesperson based on the number of emails they have sent on a daily, weekly, or monthly basis.
+High
+Embed Chart
+The solution facilitates to use unique codes to embed customized reports to third-party dashboards.
+High
+Pre-built Dashboards
+The solution provides pre-built dashboards to get insights on the sales data and team performance quickly.
+High
+Pre-built Reports
+The solution provides an array of pre-built report templates to get a snapshot of sales performance, track milestones, or drill-down using saved searches and filters. It is also possible to set up re-useable templates using KPIs to be used later.
+High
+Report Preview
+The solution allows previewing the report before publishing to verify or edit the data and see how it is represented.
+High
+Report Sharing
+The solution enables exporting reports as PDF, XLS, or CSV files, or by scheduling automatic delivery on a recurring basis.
+High
+User Homepage or Dashboard
+The solution offers a user homepage or dashboard, displaying a customizable summary view of the assigned leads, opportunities, tasks, alerts, gadgets, recent activities, recommendations, visualizations, etc.
+High
+Documents Management (7) 
+Advanced Search Capabilities
+The solution provides advanced search capabilities and supports various features such as Tree-based search, Full-text search, Searching on document attributes, Natural language queries, Refining existing searches, etc.
+High
+Document Conversion
+The solution can convert offline documents into a web-based version for online viewing.
+High
+Document Repository
+The solution provides a centralized repository to store documents, attachments, and sales collateral that can be accessed based on the appropriate role within the organization.
+High
+Document Sharing
+The solution allows sharing a file with internal and external users by generating an encrypted link and sending it through email or chat.
+High
+File Attachments
+The solution enables attaching files to various CRM records like leads, accounts, contacts, deals, products, etc.
+High
+Playbooks
+The solution provides users the ability to generate interactive content or playbooks, outlining how their products operate as well as policies and procedures detailing how to support them. These playbooks are accessible directly from a contact, account, or opportunity record.
+High
+Version History
+The solution automatically saves multiple versions of the documents based on their revision history.
+High
+Leads Management (5) 
+Automatic Lead Distribution
+The solution allows defining assignment rules to automatically assign sales representatives to the leads based on various criteria such as geography, product, department, lead score, lead source, etc. or use round-robin queues to assign the leads equally.
+High
+Email Parser
+The solution creates a new lead or updates an existing lead when an email with the lead data is forwarded to the provided parser email address.
+High
+Leads Capture
+The solution provides tools to capture leads from various sources and manually add leads from different sources into a single database.
+High
+Lead Scoring
+The solution computes and assigns each lead a score based on customizable scoring rules using lead data, activities, interactions, and more.
+High
+Win-Loss Analysis
+The solution displays the percentage of won and lost leads, average lead life-cycle, and how fast the team responds to incoming leads to help understand the dynamics of where the leads are being lost most frequently.
+High
+Opportunities/Deals Management (6) 
+Activity Management
+The solution facilitates keeping track of all customer communications and activities associated with an opportunity and notifies any updates in real-time. Examples of activities include sending emails, making phone calls, setting up appointments, creating tasks, taking notes, etc.
+High
+Journey Designer
+The solution provides a drag-and-drop interface to create sales journeys with automated business rules and integrated workflows that can perform optimally across various devices.
+High
+Opportunity Management
+The solution allows creating new opportunities, sort and filter them using various fields, and manage the flow of opportunities across various stages. It also allows for converting the leads into opportunities.
+High
+Opportunity Probability
+The solution offers to assign a win-probability percentage to different stages of the opportunity.
+High
+Opportunity Rotting
+The solution highlights the opportunities when specific configurable criteria are met and thus draws attention towards the opportunities that have been unattended or stuck at a stage beyond a specific period.
+High
+Sales Pipeline / Kanban View of Opportunities
+The solution organizes opportunities in a Kanban board and offers visibility of the opportunities across all stages in a single view.
+High
+Partners and Vendors Management (5) 
+Partner Portal
+The solution provides access to partners via the partner portal. It allows partners to add new leads in the sales pipeline, tag records, view their list of contacts, place purchase orders, access products and quotes, and generate invoices.
+High
+Partner Relationship Management
+The solution has provisions to recruit, onboard, train, and support channel partners. It allows developing campaigns with tracking capabilities, managing marketing development funds, and providing partners access to relevant content.
+High
+Partner Scorecard
+The solution offers scorecards to provide insights into partner selling statistics and contributions. It helps to drill-down into partner scores to understand their performance and indirect pipeline progression.
+High
+Portal Permissions
+The solution offers password protection and allows setting different access permissions (read, write, edit, comment) for vendor and partner portal users.
+High
+Vendor Portal
+The solution provides access to vendors via a dedicated vendor portal. It gives vendors a consolidated view of all the orders that they are associated with and can leave comments if there are any changes to the order.
+High
+Platform Capabilities (10) 
+Bulk View
+The solution provides a way to convert the CRM into a spreadsheet view when editing records in bulk.
+High
+Case Management
+The solution enables creating cases, assigning users, and tracking requests, questions, issues, or feedback from customers, vendors, and partners.
+High
+Color Coded Icons
+The solution allows setting color-coded icons to check scheduled and overdue tasks in the sales pipeline view or next follow-up activity for leads, contacts, and deals in the list view.
+High
+Custom Branding
+The solution enables incorporating company logo, default colors, and company information into landing pages, emails, live support chat windows, and more to represent a specific brand. Businesses can have one common email address that can be used to send automated welcome emails, support emails, etc. to their customers.
+High
+Custom Layouts
+The solution allows customizing page layouts of various CRM records like leads, opportunities, accounts, contacts, products, etc.
+High
+Custom Modules
+The solution allows adding and exporting custom modules to collect custom data sets and organize subsets of information. Packages can be generated to accommodate multiple modules of different types.
+High
+Custom Views and Filters
+The solution allows building customized views and then using advanced filter options to filter CRM records.
+High
+Follow-up Reminders
+The solution allows setting reminders to follow-up with prospects or generating automated email messages to be sent out at a scheduled time.
+High
+Notes
+The solution allows adding text or audio notes to the records (leads, contacts, accounts, deals, etc.) that help summarize observations on customer and prospect interactions.
+High
+Real-time Notifications
+The solution provides tools to deliver and filter real-time notifications to keep track of all customer interactions to take action on them immediately.
+High
+Products Management (4) 
+Custom Portals
+The solution allows for creating branded portals using the CRM database for prospects to explore the products and services a company offers. It enables creating views to display records with images, tags, color codes, and more.
+High
+Custom Products
+The solution supports generating custom products with various product codes, costs, costs to produce, special notes, etc. These products can be filtered using unique filters and linked to deals and contacts.
+High
+Product Catalog
+The solution facilitates setting up a product catalog that lists the products a company offers, including its pricing information. It includes the product taxonomy to create a classification of the products.
+High
+Product Groups
+The solution helps group products based on custom or pre-defined product attributes, such as brand, category, etc. that help structure and organize the product catalog.
+High
+Social Engagement (5) 
+Keyword Tracking
+The solution enables businesses to track keywords about prospects and competitors for social listening.
+High
+Social Interaction and Tracking
+The solution stores information, deals history, and activities from social conversations with contacts, making it accessible directly from the respective contact record within the CRM.
+High
+Social Media Integration
+The solution integrates with social networking sites such as Facebook, Twitter, and LinkedIn to create new posts or reply to posts mentions, follow hashtags or posts, incorporate company information of prospects, and sync new leads and contacts into the CRM.
+High
+Triggers
+The solution allows setting up triggers to automatically add leads and contacts from social media based on customer interaction.
+High
+Widgets
+The solution provides real-time widgets to connect with contact pages and interact with them on social networks.
+High
+Team Collaboration (6) 
+Feeds
+The solution provides a feed forum for sales representatives to share announcements, follow updates, create team groups, share attachments and collateral, and stay notified with changes in real-time. It also allows getting updates from various channels with the ability to comment and like different posts in the feed.
+High
+GeoTagging
+The solution enables field representatives to check-in their locations for client meetings to keep other team members informed.
+High
+@Mention
+The solution provides the ability to mention team members in notes/posts.
+High
+Private Chat
+The solution provides private chat functionality to collaborate and share sales updates and records with internal stakeholders.
+High
+Tags
+The solution allows adding tags automatically or manually to categorize records with specific keywords that help identify, search, sort, filter, and segment those records.
+High
+User Groups
+The solution allows for creating multiple user groups based on shared characteristics and facilitates sharing common CRM records.
+High
+Workflows and Process Automation (3) 
+Approval Rules
+The solution allows setting up and automating the approval process for business requests, including deal discount approvals, travel and expense reports, contracts review, document approvals, etc.
+High
+Validation Rules
+The solution permits to set validation rules with condition checks across multiple criteria to prevent inaccurate data from entering the CRM. It can include an error message to display when the user inputs an invalid value.
+High
+Workflow Rules
+The solution allows setting custom workflows for automating processes that do not require any user interaction. It automatically triggers those actions when predefined, specified conditions are met.
+High
+(excluded) Quotes, Orders, and Contracts Management (0)
+(excluded) Sales Performance Management (0)
+Technical Requirements (37)
+Availability and Scalability (4) 
+Dynamic Scaling
+The solution should automatically scale the resources to accommodate varying throughput at different times of the day.
+High
+Fault Tolerance
+The solution is built with fault tolerance architecture and capabilities to automatically recover from any single point of failure.
+High
+High Availability
+The system provides for high availability through means such as redundant backup servers, cloud nodes, or other methods.
+High
+Scalability
+The solution should be horizontally and vertically scalable.
+High
+Integration and Extensibility (25) 
+APIs
+The solution provides open APIs to fetch, create, update, or delete information like records, modules, and custom views or create custom integrations with third-party systems.
+High
+Business Phone Systems Integration
+The solution integrates with popular business phone system (PBX, VOIP, etc.) providers like Talkdesk, RingCentral, GoToConnect, etc. to make and attend calls from within the CRM, and attach call histories under each record.
+High
+Calendar Integration
+The solution integrates with Google, Office 365, and Apple calendars to sync all CRM events like appointments, contacts, meetings, etc. It helps to keep track of important events and deadlines.
+High
+Cloud Files Storage Systems Integration
+The solution integrates with popular cloud storage and synchronization systems like Dropbox, etc.
+High
+CPQ Integration
+The solution integrates with CPQ platforms such as Apttus CPQ, Oracle CPQ, etc. that help sales teams construct a mix of products and services from a universal catalog, configure solutions, execute pricing models, and generate an optimal quote. It can be used to automatically generate quotes and renewal opportunities, automate quote approval rules, and more.
+High
+Data Export
+The solution allows exporting CRM data in various formats such as XLS, CSV, PDFs, etc.
+High
+Data Import
+The solution allows importing CRM data using CSV or Excel files.
+High
+Data Integration Tools Integration
+The solution integrates with popular data integration tools like Zapier, PieSync, etc.
+High
+Document Generation and e-Signature Platform Integration
+The solution integrates with popular document generation and e-signature platforms, such as HelloSign, DocuSign, PandaDoc, etc.
+High
+E-Commerce Platform Integration
+The solution integrates with popular e-commerce platforms such as Magento, Shopify, Ecwid, etc. to set up a store and then sync and sell across a website, social media, marketplaces, etc.
+High
+Email Marketing Platform Integration
+The solution integrates with various email marketing platforms such as Mailchimp, ActiveCampaign, SendInBlue, Zoho Campaigns, Autopilot, etc. to build, manage, and segment opt-in email lists and send targeted emails to large groups of contacts.
+High
+Enterprise Collaboration Platforms Integration
+The solution integrates with popular enterprise collaboration platforms like Slack, etc.
+High
+ERP Systems Integration
+The solution integrates with popular ERP systems from SAP, Oracle, Microsoft, etc.
+High
+G-Suite Integration
+The solution integrates with G-Suite to attach documents from Google Drive, export events to Google Calendar, add contacts from Google Contacts, create forms and publish them from the Google Sites, and configure Gmail directly from within the CRM.
+High
+HelpDesk Systems Integration
+The solution integrates with helpdesk platforms such as Zendesk, ClickDesk, HelpScout, LiveHelpNow, Zoho Desk, etc. to create and view service ticket histories, and respond to inquiries.
+High
+Landing Pages Builder Integration
+The solution integrates with landing page builders such as Unbounce, etc. to design landing pages and receives new leads whenever the form is filled out.
+High
+Marketing Automation Integration
+The solution integrates with various marketing automation platforms such as Act-On, Marketo, Pardot, HubSpot, etc. to gain insights into every interaction with customers and leads, automate actions across multiple areas of marketing, streamline marketing workflows, and measure the outcomes of marketing campaigns.
+High
+Messaging Platform Integration
+The solution integrates with popular messaging platforms such as WhatsApp, Facebook Messenger, Telegram, etc.
+High
+Office 365 Integration
+The solution integrates with Microsoft Office 365 to synchronize contacts, tasks, calendar events, and chat conversations from Microsoft account. It is possible to customize the data mapping, add contacts and leads directly from Outlook email, share records with Microsoft Teams chat, and more.
+High
+Project Management Systems Integration
+The solution integrates with popular project management platforms such as Jira Software, Trello, ClickUp, Asana, etc. to monitor the progress of projects and individual tasks.
+High
+Scheduling Tools Integration
+The solution integrates with popular scheduling tools, such as Calendly, Meetingbird, etc. to schedule meetings. It can be used to facilitate others to schedule meetings with the user or use the chrome extension to insert meeting times directly into the emails. These tools can be connected with any existing calendar application.
+High
+Video Conferencing Platform Integration
+The solution integrates with popular video conferencing platforms such as Zoom.
+High
+Web Forms Platform Integration
+The solution integrates with online forms platforms such as JotForm, Typeform, Contact Form 7, Gravity Forms, etc. to capture and send new leads, contacts, or accounts from the CRM website, and conduct market research or gather feedback and opinions.
+High
+Webhooks
+The solution allows using webhooks to trigger actions in third-party applications every time an event occurs in the CRM.
+High
+Widgets
+The solution provides SDK to create widgets that help embed any third party service and create interface components into the CRM. The widgets can sync data between the solution and other third-party applications, including operating the application within the CRM and acting on the account's data in real-time.
+High
+Mobile Support (0)
+(excluded) Deployment Options (2) 
+SaaS Option
+Is the solution a SaaS offering?
+High
+Self-Hosted Option
+Is the solution self-hosted?
+High
+(excluded) Platform Security (6) 
+Activity Logs
+The solution maintains a record of administrative and user actions and generates a report on such activities.
+High
+Compliance
+The solution complies with various regulations like GDPR, CAN-SPAM, etc.
+High
+Data at Rest Encryption
+The solution encrypts all types of idle data at rest, such as relational databases, file stores, backup copies of databases, etc. using various encryption technologies.
+High
+Role-Based Permissions
+The solution allows assigning roles for users, define module and field-level permissions for different roles, and control access to records with different levels of data sharing.
+High
+Single Sign-on and Trusted Authentication
+The solution allows configuring SSO to provide automatic access to the users without prompting them to sign-in separately if they have already authenticated themselves into the corporate identity management system.
+High
+Two Factor Authentication
+The solution allows configuring two-factor authentication for all the users or a group of users using various methods like security questions, one-time passcodes, security tokens, etc.
+High
+Vendor Qualification Requirements (21)
+Training (4) 
+Certifications
+Does the vendor offer testing and certification programs to certify product users?
+High
+Free Live Training
+Does the vendor provide free live training?
+High
+In-Product Help and Suggestions
+Does the vendor offer in-product help and suggestions within the application to help the user get started using the product?
+Low
+Training Material
+Does the vendor offer training material to help configure and use various features and functionalities of the product?
+High
+(excluded) Professional Services and Maintenance (4) 
+Implementation Price Capping
+Can the implementation costs be capped and based on a fixed scope?
+High
+Implementation Services
+Does the vendor offer software implementation services, including solution evaluation and installation, to minimize the on-premise expertise required to implement the solution?
+High
+Maintenance Contracts
+Does the vendor offer maintenance contracts for supported software to ensure that updates, upgrades, and maintenance services are regularly received?
+High
+On-premise Maintenance
+Does the vendor provide on-premise maintenance support?
+High
+(excluded) User Support (7) 
+24x7 Technical Support
+Does the vendor offer 24x7 technical support to be able to address off-hour issues?
+High
+Chat and Instant Message
+Does the vendor offer help desk support via instant message/chat?
+High
+FAQs
+Does the vendor provide a FAQ section on its website?
+High
+Forums and Community Support
+Does the product have a community support forum for the user community to interact and provide assistance?
+High
+Penalties
+Does the vendor accept penalties if the SLA terms are violated?
+High
+Phone and Email
+Does the vendor offer help desk support via telephone and email?
+High
+SLA
+Is a formal service level agreement (SLA) published or available for review?
+High
+(excluded) Vendor Information (6) 
+Customer Base
+Does the vendor have a broad customer base in the industry?
+Low
+Financial Stability
+Is the vendor financially stable, as evidenced by Dun & Bradstreet, or a similar report?
+High
+Free Trial
+Does the solution offer a free trial?
+Medium
+Public Entity
+Is the vendor a public company?
+Low
+References
+Is the vendor able to provide customer references/testimonials?
+Low
+User Ratings
+Does the product have an average user rating of 4.25 or more (out of 5) in popular software review portals?
+High
